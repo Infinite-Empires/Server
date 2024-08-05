@@ -1,0 +1,14 @@
+mods/*.jar
+*.jar
+eula.txt
+world
+versions
+logs
+libraries
+.fabric
+banned-ips.json
+banned-players.json
+fabricloader.log
+whitelist.json
+usercache.json
+ops.json
